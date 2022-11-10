@@ -1,11 +1,26 @@
 <h1> "Antiracist Genre Systems: Creating Non-Violent Writing Classroom Spaces" by Tieanna Graphenreed and Mya Poe </h1>
 
-*Black feminist reminders:
+*A Black feminist reminder:
 “Caring for myself is not self-indulgence, it is self-preservation…”
 -Audre Lorde, A Burst of Light (1988)*
 
-<h2> Full Article published in *Composition Studies* Special Issue on Writing and Well-being</h2>
+<h2>The work</h2>
+Our article takes up Black critical geography, Rhetorical Genre Studies
+(RGS), and trauma-informed pedagogy (TIP) to argue that preventing rhetorical
+violence in our classrooms cannot be accomplished without ensuring
+students feel safe bringing their whole selves into the classroom. Specifically,
+Black theorizations of space and genre systems help us think about the relationship
+between wellness and anti-Blackness as a geographic and spatial
+problem. Drawing on antiracist pedagogy and trauma-informed pedagogy,
+we demonstrate that aligning genres and practices with a set of visible, explicit
+antiracist commitments through the interlocking social actions of the
+syllabus, assignment sheets, class communications, community agreements
+and commitment statements, and formative and summative assessment can
+help in creating non-violent spaces that affirm marginalized students’ identities
+and promote all students’ well-being.
 
+
+### Read  the full Article published in *Composition Studies Special Issue on Writing and Well-being
 Editors: Stacey Cochran and Susan Miller-Cochran
 
 <h2> Summary of Module </h2>
@@ -45,15 +60,17 @@ We can transform and stabilize classroom spaces through antiracist and trauma-in
 
 <h2> Materials and Figures for Safe Classroom Spaces </h2>
 
-[Commitment Statements for Safer Classrooms](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/documenting_fieldwork_narratives-spring2022-nieves/handout-install_audacity.pdf) 
+[Commitment Statements for Safer Classrooms](https://github.com/graphtie/Antiracist-Genre-Systems/blob/main/Antiracist_Genre%20Systems_Figures/Commitment%20Statements%20for%20Safer%20Classrooms.pdf) 
 
-[Figure 1. Canonical classroom genre types - Graphenreed and Poe](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/documenting_fieldwork_narratives-spring2022-nieves/Audacity%20Slides.pdf) 
+### Downloadable version of our Article Figures, published in *Composition Studies*
 
-[Figure 2. Canonical and Antiracist Social Actions of the Classroom Genre System - Graphenreed and Poe](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/documenting_fieldwork_narratives-spring2022-nieves/handout-intro_to_audacity.pdf) 
+[Figure 1. Canonical classroom genre types - Graphenreed and Poe](https://github.com/graphtie/Antiracist-Genre-Systems/blob/main/Antiracist_Genre%20Systems_Figures/AGS_Article-Figures_Graphenreed-and-Poe/Figure-1_Canonical%20classroom%20genre%20types.pdf) 
 
-[Figure 3. Teaching Philosophy Comittment Statement courtesy of Dr. Qianqian Zhang-Wu](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/documenting_fieldwork_narratives-spring2022-nieves/Audacity%20Slides.pdf) 
+[Figure 2. Canonical and Antiracist Social Actions of the Classroom Genre System - Graphenreed and Poe](https://github.com/graphtie/Antiracist-Genre-Systems/blob/main/Antiracist_Genre%20Systems_Figures/AGS_Article-Figures_Graphenreed-and-Poe/Figure-2_Canoncial%20and%20Antiracist%20Social%20Actions%20of%20the%20Classroom%20Genre%20System.pdf) 
 
-[Figure 4. Language Diversity and Linguistic Justice Statement courtesy of Tieanna Graphenreed and Amber Simpson](https://github.com/NULabNortheastern/digitalassignmentshowcase/blob/master/podcasting/documenting_fieldwork_narratives-spring2022-nieves/handout-intro_to_audacity.pdf) 
+[Figure 3. Teaching Philosophy Comittment Statement courtesy of Dr. Qianqian Zhang-Wu](https://github.com/graphtie/Antiracist-Genre-Systems/blob/main/Antiracist_Genre%20Systems_Figures/AGS_Article-Figures_Graphenreed-and-Poe/Figure-3_Teaching%20Philosophy%20Comittment%20Statements_Zhang-Wu.pdf) 
+
+[Figure 4. Language Diversity and Linguistic Justice Statement courtesy of Tieanna Graphenreed and Amber Simpson](https://github.com/graphtie/Antiracist-Genre-Systems/blob/main/Antiracist_Genre%20Systems_Figures/AGS_Article-Figures_Graphenreed-and-Poe/Figure-4_Language%20Diversity%20and%20Linguistic%20Justice%20Statement_Graphenreed%20and%20Simpson.pdf) 
 
 We recommend engaging with all of the scholars cited here (and others cited in our article) whether on your own or in community with others -- from your classrooms, to your departments, campuses, and beyond. 
 
