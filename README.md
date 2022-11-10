@@ -4,7 +4,7 @@
 “Caring for myself is not self-indulgence, it is self-preservation…”
 -Audre Lorde, A Burst of Light (1988)*
 
-<h2>The work</h2>
+<h2>The Work</h2>
 Our article takes up Black critical geography, Rhetorical Genre Studies
 (RGS), and trauma-informed pedagogy (TIP) to argue that preventing rhetorical
 violence in our classrooms cannot be accomplished without ensuring
@@ -20,7 +20,7 @@ help in creating non-violent spaces that affirm marginalized students’ identit
 and promote all students’ well-being.
 
 
-### Read  the full Article published in *Composition Studies Special Issue on Writing and Well-being
+### Read  the full Article published in *Composition Studies* Special Issue on Writing and Well-being
 Editors: Stacey Cochran and Susan Miller-Cochran
 
 <h2> Summary of Module </h2>
@@ -77,6 +77,7 @@ We recommend engaging with all of the scholars cited here (and others cited in o
 <h2> Developed by </h2>
 
 Tieanna Graphenreed
+
 Professor Mya Poe
 
 Last Updated: November 9, 2022
