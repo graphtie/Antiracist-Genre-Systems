@@ -62,15 +62,15 @@ We can transform and stabilize classroom spaces through antiracist and trauma-in
 
 [Commitment Statements for Safer Classrooms](https://github.com/graphtie/Antiracist-Genre-Systems/blob/main/Antiracist_Genre%20Systems_Figures/Commitment%20Statements%20for%20Safer%20Classrooms.pdf) 
 
-### Downloadable version of our Article Figures, published in *Composition Studies*
+### Downloadable versions of our Article Figures, published in *Composition Studies*
 
-[Figure 1. Canonical classroom genre types - Graphenreed and Poe](https://github.com/graphtie/Antiracist-Genre-Systems/blob/main/Antiracist_Genre%20Systems_Figures/AGS_Article-Figures_Graphenreed-and-Poe/Figure-1_Canonical%20classroom%20genre%20types.pdf) 
+[Figure 1.](https://github.com/graphtie/Antiracist-Genre-Systems/blob/main/Antiracist_Genre%20Systems_Figures/AGS_Article-Figures_Graphenreed-and-Poe/Figure-1_Canonical%20classroom%20genre%20types.pdf) Canonical classroom genre types - Graphenreed and Poe
 
-[Figure 2. Canonical and Antiracist Social Actions of the Classroom Genre System - Graphenreed and Poe](https://github.com/graphtie/Antiracist-Genre-Systems/blob/main/Antiracist_Genre%20Systems_Figures/AGS_Article-Figures_Graphenreed-and-Poe/Figure-2_Canoncial%20and%20Antiracist%20Social%20Actions%20of%20the%20Classroom%20Genre%20System.pdf) 
+[Figure 2.](https://github.com/graphtie/Antiracist-Genre-Systems/blob/main/Antiracist_Genre%20Systems_Figures/AGS_Article-Figures_Graphenreed-and-Poe/Figure-2_Canoncial%20and%20Antiracist%20Social%20Actions%20of%20the%20Classroom%20Genre%20System.pdf) Canonical and Antiracist Social Actions of the Classroom Genre System - Graphenreed and Poe
 
-[Figure 3. Teaching Philosophy Comittment Statement courtesy of Dr. Qianqian Zhang-Wu](https://github.com/graphtie/Antiracist-Genre-Systems/blob/main/Antiracist_Genre%20Systems_Figures/AGS_Article-Figures_Graphenreed-and-Poe/Figure-3_Teaching%20Philosophy%20Comittment%20Statements_Zhang-Wu.pdf) 
+[Figure 3.](https://github.com/graphtie/Antiracist-Genre-Systems/blob/main/Antiracist_Genre%20Systems_Figures/AGS_Article-Figures_Graphenreed-and-Poe/Figure-3_Teaching%20Philosophy%20Comittment%20Statements_Zhang-Wu.pdf) Teaching Philosophy Comittment Statement courtesy of Dr. Qianqian Zhang-Wu
 
-[Figure 4. Language Diversity and Linguistic Justice Statement courtesy of Tieanna Graphenreed and Amber Simpson](https://github.com/graphtie/Antiracist-Genre-Systems/blob/main/Antiracist_Genre%20Systems_Figures/AGS_Article-Figures_Graphenreed-and-Poe/Figure-4_Language%20Diversity%20and%20Linguistic%20Justice%20Statement_Graphenreed%20and%20Simpson.pdf) 
+[Figure 4.](https://github.com/graphtie/Antiracist-Genre-Systems/blob/main/Antiracist_Genre%20Systems_Figures/AGS_Article-Figures_Graphenreed-and-Poe/Figure-4_Language%20Diversity%20and%20Linguistic%20Justice%20Statement_Graphenreed%20and%20Simpson.pdf) Language Diversity and Linguistic Justice Statement courtesy of Tieanna Graphenreed and Amber Simpson
 
 We recommend engaging with all of the scholars cited here (and others cited in our article) whether on your own or in community with others -- from your classrooms, to your departments, campuses, and beyond. 
 
