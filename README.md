@@ -56,7 +56,7 @@ When we prioritize the safety of our marginalized students and colleagues, it is
 
 <h2> How do we apply antiracist theory to different classroom spaces? </h2>
 Antiracist pedagogies and a Black Critical Geographic approach (Graphenreed & Poe) offer possibilities for curating safer classroom spaces.
-We can transform and stabilize classroom spaces through antiracist and trauma-informed practices. Following Katherine McKittrick, “alterability is a pathway” to a more human(e) understandings of—and actions within—space (Demonic Grounds, 2006).
+We can transform and stabilize classroom spaces through antiracist and trauma-informed practices. Following Katherine McKittrick, “alterability is a pathway” to a more human(e) understandings of—and actions within—spaces, places, and geographies (Demonic Grounds, 2006).
 
 <h2> Materials and Figures for Safe Classroom Spaces </h2>
 
