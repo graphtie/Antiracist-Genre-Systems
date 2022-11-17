@@ -37,7 +37,7 @@ This module offers strategies and implications for using antiracist genre system
 
 <h2> What is safety, from an antiracist perspective? </h2>
 
-From an antiracist perspective antiracist perspective, safety is not about dis/comfort. Safety,more accurately, is about survival—and having access to resources, communities, and support necessary to survival and well-being. For some students, especially Black and marginalized students, our classrooms have never been safe.
+From an antiracist perspective, safety is not about dis/comfort. Safety,more accurately, is about survival—and having access to resources, communities, and support necessary to survival and well-being. For some students, especially Black and marginalized students, our classrooms have never been safe.
 
 <h2> How has safety come up in academic scholarship? </h2>
 
