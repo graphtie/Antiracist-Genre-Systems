@@ -50,7 +50,7 @@ from “[Canada and the Question of Black Geographies](https://www.pdcnet.org/co
 Esther O. Ohito and Keffrelyn D. Brown from Esther O. Ohito and Keffrelyn D. Brown’s “[Feeling Safe from the Storm of
 anti-Blackness](https://www.tandfonline.com/doi/pdf/10.1080/03626784.2020.1843966?casa_token=t3nl6NfwG6AAAAAA:sftEURarYIX_XRrk62f8N5rO_oJBL736FIRr6hTkRkH-qMUR2BuNAuEnEaJ_HojVb8Fac9Cxbu8EGQ)" 
 * “What happens when you can’t experience safety in your cave because the bear is living in the
-cave with you?” - Melissa Tayles, citing Nadine Burke Harris from Melissa Tayles’ “[Trauma Informed Writing Pedagogy](https://www.proquest.com/docview/2526905410?fromopenview=true&pq-origsite=gscholar)” 
+cave with you?” - Melissa Tayles, citing Nadine Burke-Harris from Melissa Tayles’ “[Trauma Informed Writing Pedagogy](https://www.proquest.com/docview/2526905410?fromopenview=true&pq-origsite=gscholar)” 
 
 When we prioritize the safety of our marginalized students and colleagues, it is an act of care.
 
