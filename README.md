@@ -20,7 +20,7 @@ help in creating non-violent spaces that affirm marginalized students’ identit
 and promote all students’ well-being.
 
 
-### Read  the full Article published in *Composition Studies* Special Issue on Writing and Well-being
+### Read  the full Article published in *Composition Studies* [Special Issue on Writing and Well-being](https://compstudiesjournal.com/current-issue-summer-2022-50-2/?fbclid=IwAR3LZ7cjaNnJTyAckncHpUhqlOCaAsPLbmHRGmm9pwuR7W0WwlUAfkxA4KU&mibextid=07ACJ6)
 Editors: Stacey Cochran and Susan Miller-Cochran
 
 <h2> Summary of Module </h2>
